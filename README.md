@@ -1,2 +1,1 @@
-# ThreeJsStudy
-Study ThreeJS
+# Three.js 공부
