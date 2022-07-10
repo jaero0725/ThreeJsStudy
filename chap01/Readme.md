@@ -1,5 +1,6 @@
-## :clipboard 목표 : 세팅하고, gltf 파일 로딩하기
-### <화면>
+## 🔖 목표 : Three.js 세팅하고, gltf 파일 로딩하기
+
+#### 결과
 ![logo](https://user-images.githubusercontent.com/55049159/178149204-6d6de703-475b-4623-830c-cf6e4aa0f138.gif)
 
 ### Three.js 설치 
