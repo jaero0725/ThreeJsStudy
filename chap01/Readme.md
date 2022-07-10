@@ -1,10 +1,10 @@
-# 첫 세팅 
+## :clipboard 목표 : 세팅하고, gltf 파일 로딩하기
+### <화면>
+![logo](https://user-images.githubusercontent.com/55049159/178149204-6d6de703-475b-4623-830c-cf6e4aa0f138.gif)
 
 ### Three.js 설치 
 <a href= "https://zeroco.tistory.com/117"> 설치방법 </a> <br>
-
 <p> 방식으로 다운받아서 설치한 것으로 실습을 진행 </p>
-
 
 ```javascript
 /*
