@@ -5,7 +5,7 @@
 
 ### => npm 방식으로 설치한 것으로 실습을 진행
 
-``
+```
 /*
 3D 모델 보여줄떄 필수품
     1. 카메라
@@ -54,4 +54,5 @@ loader.load('/gltf/logo.gltf', function(gltf){
 }); //로그 할떄 시간이 좀 걸림 콜백 필요 , parametr 에 들어가 있음. 
 
 //마우스 사용해서 컨트롤 => orbitControls
-``
+
+```
