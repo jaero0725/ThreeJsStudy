@@ -3,9 +3,10 @@
 ### Three.js 설치 
 <a href= "https://zeroco.tistory.com/117"> 설치방법 </a> <br>
 
-### => npm 방식으로 설치한 것으로 실습을 진행
+<p> 방식으로 다운받아서 설치한 것으로 실습을 진행 </p>
 
-```
+
+```javascript
 /*
 3D 모델 보여줄떄 필수품
     1. 카메라
