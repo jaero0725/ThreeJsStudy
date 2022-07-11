@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=ZGACJosABBw&list=PLe6NQuuFBu7HqxY10b6gNu6iisT2-r
 https://www.youtube.com/c/designbase <br>
 https://www.youtube.com/watch?v=6oFvqLfRnsU&t=2266s <br>
 
-### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap01" >Chap 1</a> : npm setting / use GLTFLoader
-### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap02" >Chap 2</a> : Study concept of Renderer, Scene, Camera 
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap01" >Chap 1</a> : npm setting / GLTFLoader
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap02" >Chap 2</a> : use orbitControl to move Object
 
 <hr>
 © choijaeho
