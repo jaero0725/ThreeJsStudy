@@ -57,7 +57,7 @@ Material과 Gemoetry는 재사용이 가능해 여러개의 Mesh가 하나의 Ma
 
 html
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -78,7 +78,7 @@ html
 
 css
 
-```
+```css
 * {
     outline: none;
     margin: 0;
@@ -99,7 +99,7 @@ body {
 
 js
 
-```
+``` javascript
 import * as THREE from '/node_modules/three/build/three.module.js'
 
 console.log(THREE);
@@ -268,6 +268,7 @@ const cube = new THREE.Mesh(geometry, material);
 ---
 
 **Ref** 
+
 https://threejs.org/manual/#ko/fundamentals <br>
 https://www.youtube.com/channel/UCgaxgVio7J9JgZrONkwiSEQ/videos
 
