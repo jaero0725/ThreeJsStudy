@@ -1,6 +1,7 @@
 ## 🔖 목표 : OrbitControl 사용하고 ZoomFit 개념을 이용 모델을 한 화면에 꽉 채우기
 
-![adam](https://user-images.githubusercontent.com/55049159/178419745-49e79cdc-1c35-4d73-8c31-3a5b46e8cc94.gif)
+<img src="[image_src](https://user-images.githubusercontent.com/55049159/178419745-49e79cdc-1c35-4d73-8c31-3a5b46e8cc94.gif)" align="center">
+
 
 ### 개념
 <p>  모델을 화면에 꽉 채우기 위한 적당한 거리 = 모델 크기의 절반 / tan(카메라의 fov의 절반) </p>
