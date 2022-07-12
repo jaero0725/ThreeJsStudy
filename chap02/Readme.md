@@ -1,6 +1,6 @@
 ## 🔖 목표 : OrbitControl 사용하고 ZoomFit 개념을 이용 모델을 한 화면에 꽉 채우기
 
-<img src="[image_src](https://user-images.githubusercontent.com/55049159/178419745-49e79cdc-1c35-4d73-8c31-3a5b46e8cc94.gif)" align="center">
+<img src="https://user-images.githubusercontent.com/55049159/178419745-49e79cdc-1c35-4d73-8c31-3a5b46e8cc94.gif" align="center">
 
 
 ### 개념
