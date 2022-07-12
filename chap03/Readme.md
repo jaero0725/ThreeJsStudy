@@ -1,6 +1,7 @@
 ## Three.js Basic Concept
+<a href="https://zeroco.tistory.com/122" self="_blank">블로그 글로 이동</a><br>
 
-Three.js 에서 가장 기본이 되는 것은 Renderer, Scene, Camera이다. 
+Three.js 에서 가장 기본이 되는 것은 Renderer, Scene, Camera이다. 
 
 이 개념을 먼저 익히고 라이브러리의 도식화에 대해서 파악한다. 
 
