@@ -5,7 +5,7 @@
 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap01" >Chap 1</a> : npm setting / GLTFLoader
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap02" >Chap 2</a> : OrbitControls to move gltf 3D Object / Zoom
-### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap03" >Chap 3</a> : Three.js Concept - Geometry
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap03" >Chap 3</a> : Three.js Basic Concept 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap04" >Chap 4</a> : Three.js Concept - Scene graph 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap05" >Chap 5</a> : Three.js Concept - Material
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap06" >Chap 6</a> : Three.js Concept - Custom GeoMetry
