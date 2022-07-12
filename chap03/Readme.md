@@ -1,17 +1,17 @@
 ## Three.js Basic Concept
 
-Three.js 에서 가장 기본이 되는 것은 Renderer, Scene, Camera이다.  <br> 
+Three.js 에서 가장 기본이 되는 것은 Renderer, Scene, Camera이다. 
 
-이 개념을 먼저 익히고 라이브러리의 도식화에 대해서 파악한다.  <br> 
+이 개념을 먼저 익히고 라이브러리의 도식화에 대해서 파악한다. 
 
-Three.js의 기본개념은, Scene을 만들어 그 안에 3D 객체를 넣고, 그걸 Camera로 비추는 것 그리고 그 전체를 Renerer를 통해 HTML Canvas안에 Rendering하여 보여주는 것이다.  <br> 
+Three.js의 기본개념은, Scene을 만들어 그 안에 3D 객체를 넣고, 그걸 Camera로 비추는 것 그리고 그 전체를 Renerer를 통해 HTML Canvas안에 Rendering하여 보여주는 것이다. 
 
-Three.js 앱의 구조부터 간략히 살펴보면 다음과 같다. Three.js 앱을 만들려면 다양한 객체를 생성해 연결해야 합니다. 아래는 Three.js 앱의 구조를 도식화한 것입니다. <br> 
+Three.js 앱의 구조부터 간략히 살펴보면 다음과 같다. Three.js 앱을 만들려면 다양한 객체를 생성해 연결해야 합니다. 아래는 Three.js 앱의 구조를 도식화한 것입니다.
 
 
 ![image](https://user-images.githubusercontent.com/55049159/178477194-468e8af2-550a-4cc6-9ef0-5c5b79105498.png)
 
- 아래는 자주 쓰는 것들을 단순하게 도식화 한 것입니다. <br> 
+ 아래는 자주 쓰는 것들을 단순하게 도식화 한 것입니다. 
 
 ![image](https://user-images.githubusercontent.com/55049159/178477225-38b76284-4ece-45ea-b5fa-cf200b048b66.png)
 
@@ -21,9 +21,9 @@ Scene과 Camera객체를 넘겨 받아 카메라의 절두체 안의 3D Scene의
 
 **Scene**
 
-Scene은 광원인 Light와 Mesh로 구성된다. <br> 
+Scene은 광원인 Light와 Mesh로 구성된다.
 
-Scene graph는 Scene 또는 다수의 Mesh, Light, Group, Object3D, Camera로 이루어진 트리구조이다.  <br> 
+Scene graph는 Scene 또는 다수의 Mesh, Light, Group, Object3D, Camera로 이루어진 트리구조이다.  
 
 Scene은 Graph의 최상위 노드로 Backgroun color, fog등의 요소를 포함한다. 
 
@@ -37,7 +37,7 @@ Scene은 Graph의 최상위 노드로 Backgroun color, fog등의 요소를 포�
 
 **Mesh(Object3D)**
 
-Mesh는 형상을 정의하는 Geometry와 색상과 투명도를 정의하는 Material로 정의된다.   <br> 
+Mesh는 형상을 정의하는 Geometry와 색상과 투명도를 정의하는 Material로 정의된다.   
 
 Material과 Gemoetry는 재사용이 가능해 여러개의 Mesh가 하나의 Material과 Gemoetry를 동시 참조가 가능하다. 
 
@@ -51,7 +51,7 @@ Material과 Gemoetry는 재사용이 가능해 여러개의 Mesh가 하나의 Ma
 
 ---
 
-그러면 기본적인 예를 통해서 Three.js의 기본 개념에 대해서 살펴보겠다.   <br> 
+그러면 기본적인 예를 통해서 Three.js의 기본 개념에 대해서 살펴보겠다.   
 
 예시는 GIS developer님의 유튜브 강좌를 참고하였다. 
 
