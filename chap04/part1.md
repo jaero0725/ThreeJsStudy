@@ -69,7 +69,7 @@ Geometry는 3차원 객체 형상을 정의한다. Geometry의 형상을 정의�
 
 _js_
 
-``` javscript
+```javascript
 import * as THREE from 'three'
 import {OrbitControls} from 'OrbitControls'
 
@@ -192,7 +192,7 @@ window.onload = function(){
 
 \_setupModel() 함수를 잘 살펴보자.
 
-``` javscript
+```javascript
 _setupModel(){
         // ## BoxGeometry
         // ## wireFrameGeometry 
