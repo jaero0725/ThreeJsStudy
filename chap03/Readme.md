@@ -239,7 +239,7 @@ window.onload = function(){
 };
 ```
 
-js코드는  class 키워드를 사용하여 객체지향 방식으로 예제 코드를 작성 되어 있습니다.
+#### js코드는  class 키워드를 사용하여 객체지향 방식으로 예제 코드를 작성 되어 있습니다.
 
 앞서 도식화된 구조가 코드에서 잘보여집니다. 
 
@@ -261,7 +261,9 @@ const cube = new THREE.Mesh(geometry, material);
 이러한 도식화된 그림이 코드에서 잘 나타나는 것을 알 수 있다. 디테일한 각각 객체들의 특징은 아마 공식 문서를 통해 잘 확인할 수 있을 것 같다.
 
 ---
-![cube](https://user-images.githubusercontent.com/55049159/178477310-189043ae-ece6-421e-9301-25fe7ee5f692.gif)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/55049159/178477310-189043ae-ece6-421e-9301-25fe7ee5f692.gif">
+ </div>
 
 ---
 
