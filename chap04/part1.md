@@ -1,4 +1,5 @@
-Three.js에서 제공하는 기본 Geometry에 대해서 알아보겠다. 
+<a href="https://zeroco.tistory.com/123">블로그글</a><br>
+Three.js에서 제공하는 기본 Geometry에 대해서 알아보겠다. 
 
 Geometry는 앞선 포스팅에서 처럼 Mesh에 들어가는 요소 Geometry, Material 중에 형상을 의미하는 거라고 설명했다.
 
