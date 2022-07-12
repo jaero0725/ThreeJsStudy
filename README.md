@@ -15,7 +15,11 @@
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap08" >Chap 8</a>  : Three.js Concept - Light
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap09" >Chap 9</a>  : Three.js Concept - Camera
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap10" >Chap 10</a> : Three.js Concept - Shadow
+## Intermediate
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap11" >Chap 11</a> : Set Backgroud with color, fog, image, cube map
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap12" >Chap 12</a> : Dynamic Environment Map
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap13" >Chap 13</a> : Realistic glass material
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap14" >Chap 14</a> : Picking with RayCaster and particle effect
 
 <hr>
 
