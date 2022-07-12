@@ -268,13 +268,6 @@ const cube = new THREE.Mesh(geometry, material);
 ---
 
 **Ref** 
+https://threejs.org/manual/#ko/fundamentals <br>
+https://www.youtube.com/channel/UCgaxgVio7J9JgZrONkwiSEQ/videos
 
- [three.js manual
-
-threejs.org](https://threejs.org/manual/#ko/fundamentals)
-
- [GIS DEVELOPER
-
-안녕하세요, GIS Developer 김형준입니다. 지리정보시스템(GIS) 분야에서 활동하고 있는 소프트웨어 개발자입니다. GIS는 현실 세계의 공간 데이터에 기반한 데이터 처리와 분석 그리고 시각화를 위
-
-www.youtube.com](https://www.youtube.com/channel/UCgaxgVio7J9JgZrONkwiSEQ/videos)
