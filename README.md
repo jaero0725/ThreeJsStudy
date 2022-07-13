@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=ZGACJosABBw&list=PLe6NQuuFBu7HqxY10b6gNu6iisT2-r
 https://www.youtube.com/c/designbase <br>
 https://www.youtube.com/watch?v=6oFvqLfRnsU&t=2266s <br>
 <hr>
-© choijaeho
+©  choijaeho [3D model 파일(.gltf, glb..)은 본 저작자에게 저작권이 있습니다.]
