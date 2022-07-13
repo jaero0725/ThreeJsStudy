@@ -1,4 +1,3 @@
 ## Geometry 개념 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/blob/main/chap04/part1.md">part 1.</a> BoxGeometry, WireframeGeometry 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/blob/main/chap04/part2.md">part 2.</a> CirecleGeometry, ConeGeometry, CylinderGeometry, TorusKnotGeometry, SphereGeometry...
-### <a href="https://github.com/jaero0725/ThreeJsStudy/blob/main/chap04/part3.md">part 3.</a> ShpaeGeometry, TubeGeometry, LatheGeometry, ExtrudeGeometry, TextGeometry
