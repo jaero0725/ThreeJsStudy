@@ -1,4 +1,4 @@
-<a href="https://zeroco.tistory.com/manage/newpost/124?type=post&returnURL=https%3A%2F%2Fzeroco.tistory.com%2F124"> 블로그 글로 </
+<a href="https://zeroco.tistory.com/manage/newpost/124?type=post&returnURL=https%3A%2F%2Fzeroco.tistory.com%2F124"> 블로그 글로 </a> <br>
 지난 포스팅에 이어서 Geometry에 대해서 살펴보겠다.
 
 part1 WireframeGeometry, BoxGeometry에 대해서 살펴봤는데 나머지 잘쓰이는 Geometry에 대해서 살펴보겠다. 
