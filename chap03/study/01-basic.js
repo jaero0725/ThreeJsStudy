@@ -75,8 +75,10 @@ class App{
         const intensity = 1    //세기값
 
         const light = new THREE.DirectionalLight(color, intensity);
-        //빛 위치 
+        
+        //광원의 위치 
         light.position.set(-1, 2, 4);
+
         //scene에 구성요소로 Light를 넣어줌.
         this._scene.add(light);
     }

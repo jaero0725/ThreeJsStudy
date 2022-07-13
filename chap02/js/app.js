@@ -2,15 +2,12 @@ import * as THREE from 'three'
 import { GLTFLoader } from "/node_modules/three/examples/jsm/loaders/GLTFLoader.js"
 import {OrbitControls} from "/node_modules/three/examples/jsm/controls/OrbitControls.js"
 
-
 console.log(THREE);
 console.log(GLTFLoader);
 console.log(OrbitControls);
 
-
 // 1. OrbitControls을 이용 gltf 객체 핸들링
 // 2. Zoom 을 이용해 광원을 카메라의 회전에 맞추어 회전시킴.
-
 
 class App{
     constructor(){
@@ -47,14 +44,17 @@ class App{
     _setupModel(){
         //GLTF Object를 가져온다.
         const gltfLoader = new GLTFLoader();
+        const url = 'gltf/bike.gltf';
         //const url = 'data/adamHead/adamHead.gltf';
-        const url = 'gltf/logo.gltf';
 
-        //const url = 'gltf/bike.gltf';
+        const texture = new THREE.TextureLoader().load('texture/Skin_Lizard_002_ambientOcclusion.jpg');
+        const Material = new THREE.MeshBasicMaterial({map: texture});
+       
         gltfLoader.load(
             url,
             (gltf) => { 
                 const root = gltf.scene;
+                // let color = THREE.color();
                 this._scene.add(root);
 
                 //zoomFit
@@ -124,9 +124,9 @@ class App{
 
     _setupLight(){
         const color = 0xffffff;
-        const intensity = 1.6;
+        const intensity = 20;
         const light = new THREE.DirectionalLight(color, intensity);
-        light.position.set(-1, 2, 4);
+        light.position.set(-15, 3, 10);
        
          //this._scene.add(light);
         //빛을 Scene에다 넣지않고 camera에다가 넣어서 광원이 바뀌게 해준다.     

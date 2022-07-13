@@ -1,0 +1,35 @@
+* {
+    outline: none;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+#webgl-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#controls {
+    display : flex;
+    position : absolute;
+    left :25%;
+    transform : traslateX(-50%);
+    bottom :50px;
+    gap :1em;
+}
+
+.button{
+    cursor :pointer;
+    background-color : rgba(0,0,0,0.8);
+    color: white;
+    font-size :1em;
+    border-radius :0.5em;
+    border :2px solid white;
+    padding :1em 2em;
+}

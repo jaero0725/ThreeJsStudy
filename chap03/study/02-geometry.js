@@ -67,18 +67,119 @@ class App{
         // ## BoxGeometry
         // ## wireFrameGeometry 
 
-        // 1. 회색색상의 Material을 이용
-        const geometry = new THREE.BoxGeometry(1,1,1);  //가로 세로 깊이 
+        // const geometry = new THREE.BoxGeometry(1,1,1); //가로 세로 깊이 
+        // const geometry = new THREE.CircleGeometry(0.8, 32, 0, Math.PI/2);  
+       
+        /*
+        # 1. CicleGeometry 
+        constructor(
+                radius?: number,   : 반지름         | default :1
+                segments?: number, : 원판의 분할갯수 | default : 8 [값이 클수록 원의 형태에 가까워짐]
+                thetaStart?: number, : 시작각도 (radion 단위)
+                thetaLength?: number : 연장각도
+            );
+        */
 
-        const fillMaterial = new THREE.MeshPhongMaterial({
-            color : 0x515151 // 회색
-        });
+        // const geometry = new THREE.ConeGeometry(0.3,1, 20, 3, false, 0, Math.PI/2);
+    
+        /*
+        # 2. ConeGeometry 
+        constructor(
+            radius?: number,
+            height?: number,
+            radialSegments?: number,
+            heightSegments?: number,
+            openEnded?: boolean,
+            thetaStart?: number,
+            thetaLength?: number,
+        )
+        */      
+
+       // const geometry = new THREE.CylinderGeometry(0.9, 0.9, 1.6, 30 ,4);
+    
+        /*
+        # 3. CylinderGeometry 
+        constructor(
+            radiusTop?: number,
+            radiusBottom?: number,
+            height?: number,
+            radialSegments?: number,
+            heightSegments?: number,
+            openEnded?: boolean,
+            thetaStart?: number,
+            thetaLength?: number,
+        )
+        */
+
+        // const geometry = new THREE.SphereGeometry(0.9, 30, 30, 0, Math.PI * 2);
+      
+        /*
+        # 4. SphereGeometry 
+        constructor(
+            radius?: number,
+            widthSegments?: number,
+            heightSegments?: number,
+            phiStart?: number,
+            phiLength?: number,
+            thetaStart?: number,
+            thetaLength?: number,
+        )
+        */
+
+        //const geometry = new THREE.RingGeometry(0.5, 1, 30, 2);
+      
+        /*
+        # 5. SphereGeometry 
+        constructor(
+            innerRadius?: number,
+            outerRadius?: number,
+            thetaSegments?: number,
+            phiSegments?: number,
+            thetaStart?: number,
+            thetaLength?: number,
+        )
+        */
+
+        // const geometry = new THREE.PlaneGeometry(0.5, 1, 30, 2);
+        
+        /*
+        # 6. PlaneGeometry 
+        constructor(
+            width?: number, 
+            height?: number, 
+            widthSegments?: number,
+            heightSegments?: number
+        );
+        */
+        // const geometry = new THREE.TorusGeometry(0.9, 0.4, 5, 10, Math.PI *2, 2);
+      
+        /*
+        # 7. TorusGeometry 
+        constructor(
+            radius?: number, 
+            tube?: number, 
+            radialSegments?: number,
+            tubularSegments?: number,
+            arc?: number
+        );
+        */
+        const geometry = new THREE.TorusKnotGeometry(0.5, 0.09, 13, 5);
+        /*
+         constructor(
+            radius?: number,
+            tube?: number,
+            tubularSegments?: number,
+            radialSegments?: number,
+            p?: number,
+            q?: number,
+            );
+        */
+        const fillMaterial = new THREE.MeshPhongMaterial({ color : 0x515151  });
         const cube = new THREE.Mesh(geometry, fillMaterial);
 
-        // 2. 선의 재질 만들어 Line 타입의 Object를 만듦. 
         const lineMaterial = new THREE.LineBasicMaterial({ color : 0xffff00});
         const line = new THREE.LineSegments(
-            new THREE.WireframeGeometry(geometry), // WireFrame으로 만들기 위해 
+            new THREE.WireframeGeometry(geometry), 
             lineMaterial
         );
 
