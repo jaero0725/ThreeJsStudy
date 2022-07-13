@@ -20,7 +20,7 @@
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap12" >Chap 12</a> : Dynamic Environment Map
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap13" >Chap 13</a> : Realistic glass material
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap14" >Chap 14</a> : Picking with RayCaster and particle effect
-
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/animate" >Animation</a> : How to Animate 3D Model 
 <hr>
 
 ### reference
