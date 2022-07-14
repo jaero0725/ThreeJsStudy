@@ -11,7 +11,7 @@
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap04" >Chap 4</a>  : Three.js Concept - Geometry
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap05" >Chap 5</a>  : Three.js Concept - Scene graph 
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap06" >Chap 6</a>  : Three.js Concept - Material
-### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap07" >Chap 7</a>  : Three.js Concept - Custom GeoMetry
+### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap07" >Chap 7</a>  : Three.js Concept - Custom Geometry
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap08" >Chap 8</a>  : Three.js Concept - Light
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap09" >Chap 9</a>  : Three.js Concept - Camera
 ### <a href="https://github.com/jaero0725/ThreeJsStudy/tree/main/chap10" >Chap 10</a> : Three.js Concept - Shadow
