@@ -1,5 +1,5 @@
-gltf 파일을 Animate 하기 
-
+### gltf 파일을 Animate 하기 
+#### <a href="https://zeroco.tistory.com/126">블로그 글로</a>
 ```javascript
 
 import * as THREE from 'three'
