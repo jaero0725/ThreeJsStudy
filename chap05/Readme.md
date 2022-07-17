@@ -295,4 +295,3 @@ update함수를 사용하여 공전, 자전이 되는 것 처럼 보이게 구�
 ---
 
 
-zeroco.tistory.com](https://zeroco.tistory.com/122)
