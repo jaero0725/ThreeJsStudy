@@ -1,6 +1,6 @@
 ### Material
 <a href="https://zeroco.tistory.com/127">블로그글로</a>
-<nr>
+<br><br>
 이번에는 기본적인 Three.js 의 Material에 대해서 알아보겠다.
 
 Material은 Geometry와 함께 Obejct3D를 이루기 위한 필수 요소이다.
