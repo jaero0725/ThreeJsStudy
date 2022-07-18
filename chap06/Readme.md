@@ -1,3 +1,3 @@
-### Three.js Material
-<a href="">블로그글로</a>
+### Material
+<a href="https://zeroco.tistory.com/127">블로그글로</a>
 <nr>
