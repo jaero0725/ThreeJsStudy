@@ -13,9 +13,9 @@ Material들이 앞에 단어가 Line, Mesh, Points 등이 있는데 각 Object3D
 
 상황에 맞게 공식문서의 예시를 확인하면서 필요한 Material을 사용하면 될 것이다. 
     
-    <div style="background-color:red">
-        <img src="https://user-images.githubusercontent.com/55049159/179455206-d2bf3b4a-fd5b-48f6-a4f9-3e995904eaf3.png">
-    </div>
+
+<img src="https://user-images.githubusercontent.com/55049159/179455206-d2bf3b4a-fd5b-48f6-a4f9-3e995904eaf3.png">
+
 
 
 다음은 PointsMaterial을 사용하여, TextureLoader을 적용하여 img를 적용시킨 예제이다. 
